@@ -1,0 +1,14 @@
+[root]
+name = "toml-make"
+version = "0.1.0"
+dependencies = [
+ "lapp 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "lapp"
+version = "0.2.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum lapp 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)" = "d0c6656af42a864f03c940631114465984cdc77c46465663c5b8788ad5441800"
